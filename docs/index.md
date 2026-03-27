@@ -4,6 +4,9 @@ layout: "home"
 description: "The goal of this activity is to try out running Python in OpenRefine. We will use it to make an API call to augment our books dataset with information on the authors from Wikipedia."
 permalink: "/"  #! Remove this if not the homepage
 staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
