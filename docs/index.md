@@ -128,5 +128,5 @@ Augmenting Data using Python
 
 And that's it! You've now successfully augmented the original dataset with data from Wikidata and Wikipedia, using OpenRefine's reconciliation service and python.
 
-Technique: [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [OpenRefine](/tools/openrefine), [Python](/tools/python)  
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine), [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)  
 **Date Created:** 2019\-04\-08 **Updated:** 2023\-10\-23
